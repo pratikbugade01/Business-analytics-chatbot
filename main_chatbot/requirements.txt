@@ -1,0 +1,12 @@
+# Python 3.11+ dependencies. Keep these versions aligned across environments.
+fastapi==0.161.1
+uvicorn[standard]==0.54.0
+python-multipart==0.0.32
+pandas==2.3.3
+openpyxl==3.1.5
+xlrd==2.0.1
+python-dotenv==1.2.4
+pandasai==3.0.0
+pandasai-litellm==0.0.1
+litellm==1.106.2
+pydantic-settings==2.16.1

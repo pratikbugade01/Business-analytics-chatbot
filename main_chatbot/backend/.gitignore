@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+storage/uploads/
+storage/charts/
+.pytest_cache/
+
